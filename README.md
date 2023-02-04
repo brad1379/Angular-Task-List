@@ -1,3 +1,7 @@
+# Tutorial
+
+THIS IS NOT MY ORIGINAL CODE. This project was following a tutorial on how to build a task-list using Angular. 
+
 # AngularCrash
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.7.
